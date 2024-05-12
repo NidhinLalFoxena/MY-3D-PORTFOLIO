@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,15 +20,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import dart from "./tech/dart.png";
+import flutter from "./tech/flutter.png";
+import nextjs from "./tech/nextjs.png";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import foxena from "./company/foxena-corp.webp";
+import brotoType from "./company/brotoType.jpg";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ultraviolette from "./ultraviolette.png";
+import sunonix from "./sunonix.png";
+import ceyone from "./ceyone.png";
+import xpd8 from "./xpd8.png";
 
 export {
   logo,
@@ -53,10 +57,14 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
+  foxena,
+  brotoType,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  dart,
+  flutter,
+  nextjs,
+  ultraviolette,
+  sunonix,
+  ceyone,
+  xpd8,
 };
